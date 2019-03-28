@@ -1,12 +1,9 @@
-Ethereum Network Intelligence API
+TTC Network Intelligence API
 ============
 [![Build Status][travis-image]][travis-url] [![dependency status][dep-image]][dep-url]
 
-This is the backend service which runs along with ethereum and tracks the network status, fetches information through JSON-RPC and connects through WebSockets to [eth-netstats](https://github.com/cubedro/eth-netstats) to feed information. For full install instructions please read the [wiki](https://github.com/ethereum/wiki/wiki/Network-Status).
-
-
 ## Prerequisite
-* eth, geth or pyethapp
+* gttc
 * node
 * npm
 
